@@ -1,0 +1,9 @@
+name: astro-notebooks
+channels:
+  - default
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.7
+  - jupyterlab
