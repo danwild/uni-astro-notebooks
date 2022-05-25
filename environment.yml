@@ -2,6 +2,7 @@ name: astro-notebooks
 channels:
   - default
 dependencies:
+  - astropy=5.0.1
   - jupyterlab=3.1.7
   - matplotlib=3.4.2
   - numpy=1.20.3
