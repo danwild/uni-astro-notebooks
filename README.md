@@ -1,4 +1,4 @@
-# uni-astro-notebooks [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/danwild/uni-astro-notebooks/main)
+# uni-astro-notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danwild/uni-astro-notebooks/HEAD)
 
 Dump of uni assignment notes and materials
 
